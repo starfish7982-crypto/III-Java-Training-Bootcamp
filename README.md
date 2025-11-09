@@ -1,4 +1,4 @@
-# III-Java-Training-Course (Institute for Information Industry)
+# III-Java-Training-Bootcamp (Institute for Information Industry)
 
 <b>Organization Profile:</b><br>
 The Institute for Information Industry (III) is a leading non-profit organization in Taiwan, dedicated to driving the development of information and communication technology (ICT). III provides advanced training programs, industry certifications, and research opportunities to cultivate IT professionals.
